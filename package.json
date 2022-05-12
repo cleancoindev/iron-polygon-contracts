@@ -32,6 +32,6 @@
     "flatten": "node flatten.js"
   },
   "dependencies": {
-    "@poanet/solidity-flattener": "^3.0.6"
+    "@poanet/solidity-flattener": "^3.0.7"
   }
 }
